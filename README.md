@@ -1,10 +1,15 @@
-### Hi there, Im Ammar Amjad 👋
+
+
+<img align="center" src="https://github.com/Ammar-Amjad/Ammar-Amjad/blob/4d6c084fb2d502e0f13040dd34314282119d5b9f/Ammar%20Amjad%20-%20Data%20Scientist.png">
+
+<h1 style=text-align:center;>Hi there, Im Ammar Amjad 👋</h1>
+
 I'm a graduate from NUST in Computer Engineering, having 3 years of experience working as a Data Scientist and a Data Engineer at IBM and Kyndryl.
 
 - 🔭 I’m currently studying at The University of Florida.
 - 🌱 I’m currently learning GCP, AWS.
-- 🤔 I’m looking for help with getting an internship.
-- 💬 Ask me about Machine Learning, Data Engineering.
+- 🤔 I’m looking for help with getting an internship during summer of 2023.
+- 💬 Ask me about Machine Learning, Data Engineering, Data Science.
 - 📫 How to reach me: [Twitter:  @Ammar_Amjad_ ](https://twitter.com/Ammar_Amjad_), [ammar_amjad@ymail.com](ammar_amjad@ymail.com)
 - ⚡ Fun fact: Playing League of Legends since Season 1.
 
