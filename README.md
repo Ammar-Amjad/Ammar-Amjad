@@ -7,4 +7,4 @@ I'm a graduate from NUST in Computer Engineering, having 3 years of experience w
 - 💬 Ask me about Machine Learning, Data Engineering.
 - 📫 How to reach me: Twitter: [Twitter:  @Ammar_Amjad_ ](https://twitter.com/Ammar_Amjad_) [Email: ammar_amjad@ymail.com](ammar_amjad@ymail.com)
 - ⚡ Fun fact: Student at University of Florida. Playing League of Legends since Season 1.
-<img src = "https://github-readme-stats.vercel.app/api?username=Ammar-Amjad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  
+<img src = "https://github-readme-stats.vercel.app/api?username=Ammar-Amjad&theme=vue&show_icons=true">  
