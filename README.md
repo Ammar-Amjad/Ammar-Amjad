@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://github.com/Ammar-Amjad/Ammar-Amjad/blob/4d6c084fb2d502e0f13040dd34314282119d5b9f/Ammar%20Amjad%20-%20Data%20Scientist.png">
+<img align="center" src="">
 
 <h1 style=text-align:center;>Hi there, Im Ammar Amjad 👋</h1>
 
