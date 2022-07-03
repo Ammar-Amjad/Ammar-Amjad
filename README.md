@@ -1,6 +1,6 @@
 
 
-<img align="center" src="">
+<img align="center" src="https://github.com/Ammar-Amjad/Ammar-Amjad/blob/main/Ammar%20Amjad.png">
 
 <h1 style=text-align:center;>Hi there, Im Ammar Amjad 👋</h1>
 
