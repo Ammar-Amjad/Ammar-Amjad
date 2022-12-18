@@ -17,6 +17,6 @@ I'm a former graduate from NUST in Computer Engineering, having 3 years of exper
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ammar-Amjad&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/Ammar-Amjad">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Amjad" />
 </a>
  
