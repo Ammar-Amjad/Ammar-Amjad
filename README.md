@@ -4,7 +4,7 @@
 
 <h1 style=text-align:center;>Hi there, Im Ammar Amjad 👋</h1>
 
-I'm a former graduate from NUST in Computer Engineering, having 3 years of experience working as a Data Scientist and a Data Engineer at IBM and Kyndryl.
+I'm a graduate from NUST in Computer Engineering, having 3 years of experience working as a Data Scientist and a Data Engineer at IBM and Kyndryl.
 
 - 🔭 I’m currently doing Masters in Computer Science from The University of Florida.
 - 🌱 I’m currently learning GCP, AWS.
