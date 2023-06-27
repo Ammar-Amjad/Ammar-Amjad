@@ -6,5 +6,5 @@ Master's student in Computer Science at the University of Florida with 3 years o
 
 📫 **Get in touch:** Email at [ammar.amjad@ufl.edu](ammar.amjad@ufl.edu) or [ammar_amjad@ymail.com](ammar_amjad@ymail.com).
 
-**Let's connect!**
 
+<h3 style=text-align:center;>**Let's connect!**</h3>
