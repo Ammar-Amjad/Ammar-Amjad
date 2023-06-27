@@ -1,7 +1,5 @@
 
 
-<img align="center" src="https://github.com/Ammar-Amjad/Ammar-Amjad/blob/main/Ammar%20Amjad.png">
-
 <h2 style=text-align:center;>Hello, I'm Ammar Amjad! 👋</h2>
 
 Master's student in Computer Science at the University of Florida.
