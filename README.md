@@ -5,7 +5,9 @@
 <h1 style=text-align:center;>Hello, I'm Ammar Amjad! 👋</h1>
 
 Master's student in Computer Science from the University of Florida, graduating in December 2023. 
+
 Bachelor's degree in Computer Engineering from NUST.
+
 Three years working as a Data Scientist and Data Engineer at IBM and Kyndryl. 
 
 - 💻 **What I'm doing now:** I'm deepening my knowledge in Computer Science, with a special focus on GCP and AWS.
