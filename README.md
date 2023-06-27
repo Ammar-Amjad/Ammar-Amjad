@@ -6,8 +6,7 @@
 
 Master's student in Computer Science from the University of Florida with Three years of experience as a Data Scientist and Data Engineer at IBM. 
 
-📫 **To get in touch:** The best way is thru email at [ammar.amjad@ufl.edu](ammar.amjad@ufl.edu) or [ammar_amjad@ymail.com](ammar_amjad@ymail.com).
-
+📫 **Get in touch:** Email at [ammar.amjad@ufl.edu](ammar.amjad@ufl.edu) or [ammar_amjad@ymail.com](ammar_amjad@ymail.com).
 
 **Let's connect!**
 
