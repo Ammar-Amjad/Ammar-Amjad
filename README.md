@@ -2,7 +2,7 @@
 
 <h2 style=text-align:center;>Hello, I'm Ammar Amjad! 👋</h2>
 
-Database software engineer at Apple.
+Database software engineer at Apple 🍎
 
 Computer science graduate student from the University of Florida with 3 years of experience as a Data Scientist and Data Engineer at IBM. 
 
